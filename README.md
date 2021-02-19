@@ -1,2 +1,2 @@
 # ProjectManager
-ProjectManager.jar is a tool for managing projects concerning coding
+A small tool for managing projects
